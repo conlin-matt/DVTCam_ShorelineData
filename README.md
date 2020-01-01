@@ -24,9 +24,3 @@ Conlin, M. P., Adams, P. N., Plant, N. G., Jaeger, J. M., & MacKenzie, R. (2019)
 
   * This mat file loads the beta vector (geometry solution) used to rectify the camera's images (standard CIRN processing format).
 
-4) **DVTCam_Planviews.zip**
-  * A zipped folder containing the rectified plan view image for each day, from which manual shorelines are identified. Each plan view 	image is contained within a mat file. Each image can be viewed in Matlab by loading the mat file (creates a structure called frameRect) and executing:
-```matlab
-imagesc(frameRect.x,frameRect.y,uint8(frameRect.I));
-set(gca,'ydir','normal');
-```
