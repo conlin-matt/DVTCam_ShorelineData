@@ -1,4 +1,4 @@
-# Argus-derived shorelines from the DVT Camera at Kennedy Space Center, FL #
+# Video-derived shorelines from the DVT Camera at Kennedy Space Center, FL #
 
 This repo contains Argus-derived shorelines from the DVT Cam deployed at NASA-Kennedy Space Center from mid 2011 to mid 2012. Details of data processing and results can be found in:
 
