@@ -1,6 +1,6 @@
 # Video-derived shorelines from the DVT Camera at Kennedy Space Center, FL #
 
-This repo contains Argus-derived shorelines from the DVT Cam deployed at NASA-Kennedy Space Center from mid 2011 to mid 2012. Details of data processing and results can be found in:
+This repo contains video-derived shorelines from the DVT Cam deployed at NASA-Kennedy Space Center from mid 2011 to mid 2012. Details of data processing and results can be found in:
 
 Conlin, M. P., Adams, P. N., Plant, N. G., Jaeger, J. M., & MacKenzie, R. (2019). Daily to Decadal Variability of Beach Morphology at NASA-Kennedy Space Center: Storm Influences Across Timescales. *Proceedings of the Coastal Sediments 2019*. World Scientific Publishing.
 
